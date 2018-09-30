@@ -279,6 +279,8 @@ namespace Assignment_2
         //summary      : Sort the list alphabatically
         //return       : NA
         //return type  : NA
+
+       // This is for testing
         public void SortByName()
         {
             // write your implementation here
